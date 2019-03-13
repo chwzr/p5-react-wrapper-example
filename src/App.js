@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Wrapper from './wrapper';
+import Wrapper from './Wrapper';
 import Sketch from './sketch';
 
 class App extends Component {
